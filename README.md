@@ -40,7 +40,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ai-isp-frontend.git
+git clone https://github.com/Alsaef/ai-isp-frontend.git
 ```
 
 2. Install dependencies:
@@ -67,7 +67,7 @@ http://localhost:5173
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ai-isp-backend.git
+git clone https://github.com/Alsaef/ai-isp-backend.git
 ```
 
 2. Install dependencies:
